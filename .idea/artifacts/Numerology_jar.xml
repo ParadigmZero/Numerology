@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Numerology:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Numerology_jar</output-path>
+    <root id="archive" name="Numerology.jar">
+      <element id="module-output" name="Numerology" />
+    </root>
+  </artifact>
+</component>

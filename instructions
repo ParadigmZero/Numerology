@@ -1,0 +1,33 @@
+Enter a series of letters and/or numbers.
+
+Any letters are converted into numbers by the following two methods:
+
+Pythagorean ("Agrippan") method
+
+1    2    3    4    5    6    7    8    9
+A    B    C    D    E    F    G    H    I
+J    K    L    M    N    O    P    Q    R
+S    T    U    V    W    X    Y    Z
+
+Chaldean method
+
+1    2    3    4    5    6    7    8
+A    B    C    D    E    U    O    F
+I    K    G    M    H    V    Z    P
+J    R    L    T    N    W
+Q         S         X
+Y
+
+
+Numbers are then reduced numerologically as follows:
+
+7+7+7+7 = 2+8 = 1+0 = 1
+
+There is an exception with Chaldean numerology, where "repeating numbers" are left alone.
+
+For example, 7777 would then remain the same, it would not be reduced to 1.
+
+Further examples of Chaldean numerology are:
+
+OZ would be 77 (not 5)
+HEN would be 555 (not 6).
