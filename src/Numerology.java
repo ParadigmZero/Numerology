@@ -7,22 +7,6 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Map;
 
-
-
-// center
-//
-//
-// pop-up box that displays the instructions...
-//
-// Hebrew numerology
-// firstly requires, english to hebrew conversion
-// Hebrew uses planets, colours and so forth
-// hebrew is another app
-// secondly hebrew input - a seperate keyboard.
-// add in-depth breakdowns in a console
-// input box - delete, cut all, paste over, copy all
-// add copy to the output boxes...
-
 public class Numerology {
 
 
